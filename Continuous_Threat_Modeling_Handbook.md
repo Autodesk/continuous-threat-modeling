@@ -1,4 +1,4 @@
-# Continuous Threat Modeling Hanbook
+# Continuous Threat Modeling Handbook
 
 ## Who should read this Handbook and perform Threat Modeling?
 
