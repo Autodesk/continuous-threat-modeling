@@ -8,11 +8,11 @@ All manner of contributions are welcome. The methodology is still relatively you
 
 ## Guidelines
 
-* Changes are welcome via pull request!
-* Please use informative commit messages and pull request descriptions.
-* Please keep style consistent.
-* Please keep things simple. We are aiming for immediate results and a steady learning curve for developers, making every interaction with the methodology smoother and more rewarding (in terms of number and quality of findings) than the previous.
-* Please focus on principles. We are not looking at the small feature of that obscure web framework, rather, we are looking at principles that help developers build an over-arching understanding of security.
+* Changes are welcome via pull request and we look forward to working with you on changes!
+* Use informative commit messages and pull request descriptions.
+* Keep style consistent.
+* Keep things simple. We are aiming for immediate results and a steady learning curve for developers, making every interaction with the methodology smoother and more rewarding (in terms of number and quality of findings) than the previous.
+* Focus on principles. We are not looking at the small feature of that obscure web framework, rather, we are looking at principles that help developers build an over-arching understanding of security.
 
 ## Background
 
